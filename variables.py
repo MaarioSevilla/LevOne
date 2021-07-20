@@ -6,3 +6,4 @@ age = float(age)
 
 print(name, age)
 print(type(name), type(age))
+print('git test')
